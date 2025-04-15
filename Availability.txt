@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Roofing Pups Availability</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background-color: #f7f7f7;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 40px 20px;
+    }
+    h1 {
+      color: #f26522;
+      font-size: 1.8rem;
+      margin-bottom: 20px;
+    }
+    .rep {
+      background: white;
+      border: 2px solid #0078D4;
+      border-radius: 12px;
+      padding: 15px 25px;
+      margin: 10px;
+      font-size: 1.2rem;
+      color: #0078D4;
+      text-align: center;
+      text-decoration: none;
+      width: 90%;
+      max-width: 400px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    .rep:hover {
+      background-color: #0078D4;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <h1>Roofing Pups – Tap to Call</h1>
+
+  <a class="rep" href="tel:410-688-7977">Call Mike</a>
+  <a class="rep" href="tel:443-208-0178">Call Josh</a>
+  <a class="rep" href="tel:410-322-8108">Call Shawn</a>
+  <a class="rep" href="tel:443-422-4423">Call Julie</a>
+  <a class="rep" href="tel:301-256-1046">Call Elvin</a>
+  <a class="rep" href="tel:202-924-9503">Call Joe</a>
+  <a class="rep" href="tel:814-464-6283">Call Tim</a>
+
+</body>
+</html>
